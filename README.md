@@ -13,3 +13,7 @@ This is a chrome theme extension that is not yet hosted on Chrome Web Store due 
 3. Make sure to toggle `Developer mode` option.
 4. Click on `Load unpacked` and select the folder where you extracted Yae Miko Theme.
 5. You shall see a notification that says, "Extension loaded" once it successfully loads the theme. Try and open a new tab to see Yae Miko!
+
+### Roadmap
+
+- Current version supports screen display at 1366x768, further tests needed to include higher screen resolutions.
