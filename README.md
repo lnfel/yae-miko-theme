@@ -2,6 +2,8 @@
 
 Upon ascending the long staircase you finally arrived at Narukami Shrine. You met the Guuji of the shrine, Lady Yae Miko is waiting expectantly on your arrival. She smiles a little and asks you, "What shall we google today traveler?".
 
+![Screenshot](images/sample.jpg)
+
 ### About
 
 This is a chrome theme extension that is not yet hosted on Chrome Web Store due to obvious reasons.
