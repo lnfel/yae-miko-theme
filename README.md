@@ -12,4 +12,4 @@ This is a chrome theme extension that is not yet hosted on Chrome Web Store due 
 2. Now open your chrome browser and navigate to extensions page by entering `chrome://extensions/` in the search bar.
 3. Make sure to toggle `Developer mode` option.
 4. Click on `Load unpacked` and select the folder where you extracted Yae Miko Theme.
-5. You shall see a notification that says, "Extension loaded" once it successfully loads the theme. Try and open a new tab to see Yea Miko!
+5. You shall see a notification that says, "Extension loaded" once it successfully loads the theme. Try and open a new tab to see Yae Miko!
